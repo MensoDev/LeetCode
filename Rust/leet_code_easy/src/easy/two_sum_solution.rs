@@ -2,7 +2,7 @@ use std::collections::HashMap;
 
 pub fn run() {
     let response = two_sum(vec!(2,7,11,15), 9);
-    println!("EASY => TWO SUM => RESPONSE => || {:?} ||", response);
+    println!("EASY => (0001) TWO SUM => RESPONSE => || {:?} ||", response);
 }
 
 fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
