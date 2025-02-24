@@ -1,3 +1,4 @@
 # LeetCode
-Passa tempo para o fim de semana 😊.........
-Bla bla bla
+Passa tempo para o fim de semana 😊##############
+Eita Eita eita
+
